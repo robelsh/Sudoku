@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/layout-land/activity_main.xml",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/layout-land/activity_about.xml",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/layout-land/activity_about.xml"
+    },
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/layout-land/activity_score.xml",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/layout-land/activity_score.xml"
+    },
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/layout-land/content_jeu.xml",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/layout-land/content_jeu.xml"
+    },
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/layout-land/activity_jeu.xml",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/layout-land/activity_jeu.xml"
+    },
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/layout-land/activity_choix.xml",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/layout-land/activity_choix.xml"
+    },
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/layout-land/content_main.xml",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/layout-land/content_main.xml"
+    },
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/layout-land/content_about.xml",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/layout-land/content_about.xml"
+    },
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/layout-land/content_choix.xml",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/layout-land/content_choix.xml"
+    },
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/layout-land/content_score.xml",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/layout-land/content_score.xml"
+    }
+]

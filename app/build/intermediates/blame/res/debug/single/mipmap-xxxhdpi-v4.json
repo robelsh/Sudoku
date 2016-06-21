@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/sudoku.png",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/mipmap-xxxhdpi/sudoku.png"
+    },
+    {
+        "merged": "/Users/etiennejezequel/SmartSuDoKu/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/etiennejezequel/SmartSuDoKu/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
